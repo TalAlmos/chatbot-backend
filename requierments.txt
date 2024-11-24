@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+mangum
+jinja2
+pydantic
+boto3
